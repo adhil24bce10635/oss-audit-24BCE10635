@@ -28,8 +28,7 @@ These scripts are designed for a Kali Linux operating system. You can create a v
 
 2. **Navigate to the scripts directory**:
    ```bash
-   cd oss-audit-24BCE10635
-   cd scripts
+   cd oss-audit-24BCE10635/scripts
    ```
 
 3. **Ensure scripts are executable**:
