@@ -24,11 +24,11 @@ These scripts are designed for a Kali Linux operating system. You can create a v
    ```bash
    cd <path/to/your/directory>
    git clone https://github.com/adhil24bce10635/oss-audit-24BCE10635
-   cd oss-audit-24BCE10635
    ```
 
 2. **Navigate to the scripts directory**:
    ```bash
+   cd oss-audit-24BCE10635
    cd scripts
    ```
 
