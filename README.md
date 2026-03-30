@@ -39,7 +39,7 @@ These scripts are designed for a Kali Linux operating system. You can create a v
    ```
 
 4. **Run the Audits sequentially**:
-   - Script 1 — System Identity Report
+   - Script 1 — System Identity Report\n
      This script is a system telemetry reporter that captures and displays the identity of your Linux environment. It uses command substitution to pull live data from the kernel and OS files, storing them in variables to generate a structured "snapshot" of your current session, including the distribution, user details, and system uptime.
      ```bash
      ./system_identity.sh
