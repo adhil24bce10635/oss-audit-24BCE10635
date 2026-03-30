@@ -1,8 +1,8 @@
 # OSS Audit Python
 
-Name: Adhil John Babu
-Registration No: 24BCE10635
-Chosen Software: Python 
+Name: Adhil John Babu  
+Registration No: 24BCE10635  
+Chosen Software: Python  
 
 ## Repository Structure
 
